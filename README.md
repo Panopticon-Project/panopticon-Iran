@@ -7,3 +7,5 @@ https://www.wired.com/story/apt-34-iranian-hackers-critical-infrastructure-compa
 https://www.wired.com/story/iran-cyberattacks-us-universities-indictment/?CNDID=50740756&mbid=nl_032418_daily_list1_p1
 
 https://www.darkreading.com/attacks-breaches/deconstructing-the-doj-iranian-hacking-indictment/a/d-id/1331403
+
+https://w1.darkreading.com/perimeter/iran-the-new-china-as-a-pervasive-nation-state-hacking-threat/d/d-id/1331450
