@@ -9,3 +9,5 @@ https://www.wired.com/story/iran-cyberattacks-us-universities-indictment/?CNDID=
 https://www.darkreading.com/attacks-breaches/deconstructing-the-doj-iranian-hacking-indictment/a/d-id/1331403
 
 https://w1.darkreading.com/perimeter/iran-the-new-china-as-a-pervasive-nation-state-hacking-threat/d/d-id/1331450
+
+https://www.securityweek.com/iran-linked-influence-campaign-targets-us-others
