@@ -11,3 +11,5 @@ https://www.darkreading.com/attacks-breaches/deconstructing-the-doj-iranian-hack
 https://w1.darkreading.com/perimeter/iran-the-new-china-as-a-pervasive-nation-state-hacking-threat/d/d-id/1331450
 
 https://www.securityweek.com/iran-linked-influence-campaign-targets-us-others
+
+https://medium.com/dfrlab/trolltracker-irans-suspected-information-operation-153fc7b60126
