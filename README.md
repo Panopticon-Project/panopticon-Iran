@@ -15,3 +15,5 @@ https://www.securityweek.com/iran-linked-influence-campaign-targets-us-others
 https://medium.com/dfrlab/trolltracker-irans-suspected-information-operation-153fc7b60126
 
 https://www.securityweek.com/twitter-suspends-accounts-engaged-manipulation
+
+https://www.securityweek.com/iranian-hackers-target-universities-large-attack-campaign-secureworks
