@@ -17,3 +17,5 @@ https://medium.com/dfrlab/trolltracker-irans-suspected-information-operation-153
 https://www.securityweek.com/twitter-suspends-accounts-engaged-manipulation
 
 https://www.securityweek.com/iranian-hackers-target-universities-large-attack-campaign-secureworks
+
+https://www.wired.com/story/iran-facebook-trolls-using-russia-playbook/?
