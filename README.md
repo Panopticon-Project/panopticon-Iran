@@ -19,3 +19,5 @@ https://www.securityweek.com/twitter-suspends-accounts-engaged-manipulation
 https://www.securityweek.com/iranian-hackers-target-universities-large-attack-campaign-secureworks
 
 https://www.wired.com/story/iran-facebook-trolls-using-russia-playbook/?
+
+https://www.fireeye.com/blog/threat-research/2019/01/global-dns-hijacking-campaign-dns-record-manipulation-at-scale.html
