@@ -23,3 +23,5 @@ https://www.wired.com/story/iran-facebook-trolls-using-russia-playbook/?
 https://www.fireeye.com/blog/threat-research/2019/01/global-dns-hijacking-campaign-dns-record-manipulation-at-scale.html
 
 https://www.wired.com/story/iran-dns-hijacking/?
+
+https://www.securityweek.com/rise-and-fall-ashiyane-irans-foremost-hacker-forum
