@@ -25,3 +25,5 @@ https://www.fireeye.com/blog/threat-research/2019/01/global-dns-hijacking-campai
 https://www.wired.com/story/iran-dns-hijacking/?
 
 https://www.securityweek.com/rise-and-fall-ashiyane-irans-foremost-hacker-forum
+
+https://medium.com/dfrlab/trolltracker-outward-influence-operation-from-iran-cc4539684c8d
