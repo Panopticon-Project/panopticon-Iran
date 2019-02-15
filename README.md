@@ -27,3 +27,7 @@ https://www.wired.com/story/iran-dns-hijacking/?
 https://www.securityweek.com/rise-and-fall-ashiyane-irans-foremost-hacker-forum
 
 https://medium.com/dfrlab/trolltracker-outward-influence-operation-from-iran-cc4539684c8d
+
+https://www.securityweek.com/us-says-ex-intel-official-defected-iran-revealed-secrets
+
+https://www.securityweek.com/former-us-air-force-officer-indicted-aiding-iranian-cyber-attacks
