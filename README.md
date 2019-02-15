@@ -31,3 +31,5 @@ https://medium.com/dfrlab/trolltracker-outward-influence-operation-from-iran-cc4
 https://www.securityweek.com/us-says-ex-intel-official-defected-iran-revealed-secrets
 
 https://www.securityweek.com/former-us-air-force-officer-indicted-aiding-iranian-cyber-attacks
+
+https://medium.com/dfrlab/meddling-in-a-middle-east-summit-b2ae1e2d61bf
