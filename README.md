@@ -33,3 +33,7 @@ https://www.securityweek.com/us-says-ex-intel-official-defected-iran-revealed-se
 https://www.securityweek.com/former-us-air-force-officer-indicted-aiding-iranian-cyber-attacks
 
 https://medium.com/dfrlab/meddling-in-a-middle-east-summit-b2ae1e2d61bf
+
+https://medium.com/dfrlab/takedown-iranian-propaganda-network-goes-down-42281330499a
+
+https://medium.com/dfrlab/takedown-details-of-the-iranian-propaganda-network-d1fad32fdf30
