@@ -37,3 +37,5 @@ https://medium.com/dfrlab/meddling-in-a-middle-east-summit-b2ae1e2d61bf
 https://medium.com/dfrlab/takedown-iranian-propaganda-network-goes-down-42281330499a
 
 https://medium.com/dfrlab/takedown-details-of-the-iranian-propaganda-network-d1fad32fdf30
+
+https://medium.com/dfrlab/facebook-removes-iran-based-assets-again-f17358ef21f
