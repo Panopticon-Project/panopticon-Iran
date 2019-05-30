@@ -39,3 +39,5 @@ https://medium.com/dfrlab/takedown-iranian-propaganda-network-goes-down-42281330
 https://medium.com/dfrlab/takedown-details-of-the-iranian-propaganda-network-d1fad32fdf30
 
 https://medium.com/dfrlab/facebook-removes-iran-based-assets-again-f17358ef21f
+
+https://www.securityweek.com/iran-based-social-media-scheme-impersonated-press
