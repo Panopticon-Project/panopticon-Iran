@@ -41,5 +41,3 @@ https://medium.com/dfrlab/takedown-details-of-the-iranian-propaganda-network-d1f
 https://medium.com/dfrlab/facebook-removes-iran-based-assets-again-f17358ef21f
 
 https://www.securityweek.com/iran-based-social-media-scheme-impersonated-press
-
-https://www.theguardian.com/technology/2019/oct/04/iranian-hackers-targeted-a-us-presidential-campaign-microsoft-says
