@@ -41,3 +41,5 @@ https://medium.com/dfrlab/takedown-details-of-the-iranian-propaganda-network-d1f
 https://medium.com/dfrlab/facebook-removes-iran-based-assets-again-f17358ef21f
 
 https://www.securityweek.com/iran-based-social-media-scheme-impersonated-press
+
+https://www.bellingcat.com/news/2019/10/01/has-iran-been-hacking-u-s-drones/
