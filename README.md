@@ -43,3 +43,5 @@ https://medium.com/dfrlab/facebook-removes-iran-based-assets-again-f17358ef21f
 https://www.securityweek.com/iran-based-social-media-scheme-impersonated-press
 
 https://www.bellingcat.com/news/2019/10/01/has-iran-been-hacking-u-s-drones/
+
+https://medium.com/dfrlab/facebook-takes-down-iranian-assets-some-targeting-latin-american-audiences-58a964dc0597
