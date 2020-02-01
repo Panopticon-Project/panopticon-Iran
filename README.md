@@ -47,3 +47,5 @@ https://www.bellingcat.com/news/2019/10/01/has-iran-been-hacking-u-s-drones/
 https://medium.com/dfrlab/facebook-takes-down-iranian-assets-some-targeting-latin-american-audiences-58a964dc0597
 
 https://www.wired.com/story/iran-internet-shutoff/
+
+https://nationalinterest.org/blog/buzz/expert-notes-iran%E2%80%99s-military-likes-outsource-its-cyberthreat-forces-116146
