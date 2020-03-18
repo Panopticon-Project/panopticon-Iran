@@ -49,3 +49,5 @@ https://medium.com/dfrlab/facebook-takes-down-iranian-assets-some-targeting-lati
 https://www.wired.com/story/iran-internet-shutoff/
 
 https://nationalinterest.org/blog/buzz/expert-notes-iran%E2%80%99s-military-likes-outsource-its-cyberthreat-forces-116146
+
+https://www.forbes.com/sites/zakdoffman/2019/07/06/iranian-cyber-threat-heightened-by-chinas-support-for-its-cyber-war-on-u-s/#765e719642eb
