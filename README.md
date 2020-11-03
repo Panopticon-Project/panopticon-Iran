@@ -57,3 +57,5 @@ https://www.recordedfuture.com/iran-cyber-operations-structure/
 https://www.bleepingcomputer.com/news/security/fbi-iranian-hackers-trying-to-exploit-critical-f5-big-ip-flaw/
 
 https://www.securityweek.com/us-charges-two-state-sponsored-iranian-hackers
+
+https://www.securityweek.com/us-says-iranian-hackers-accessed-voter-information
