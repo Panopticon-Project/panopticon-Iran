@@ -61,3 +61,5 @@ https://www.securityweek.com/us-charges-two-state-sponsored-iranian-hackers
 https://www.securityweek.com/us-says-iranian-hackers-accessed-voter-information
 
 https://us-cert.cisa.gov/ncas/alerts/aa20-304a
+
+https://www.securityweek.com/us-officials-link-iran-emails-meant-intimidate-voters
