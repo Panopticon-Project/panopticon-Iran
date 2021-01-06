@@ -65,3 +65,5 @@ https://us-cert.cisa.gov/ncas/alerts/aa20-304a
 https://www.securityweek.com/us-officials-link-iran-emails-meant-intimidate-voters
 
 https://www.securityweek.com/us-seizes-domain-names-used-iran-disinformation
+
+https://www.securityweek.com/twitter-removes-iran-linked-accounts-aimed-disrupting-us-presidential-debate
