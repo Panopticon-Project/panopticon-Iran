@@ -67,3 +67,5 @@ https://www.securityweek.com/us-officials-link-iran-emails-meant-intimidate-vote
 https://www.securityweek.com/us-seizes-domain-names-used-iran-disinformation
 
 https://www.securityweek.com/twitter-removes-iran-linked-accounts-aimed-disrupting-us-presidential-debate
+
+https://us-cert.cisa.gov/ncas/current-activity/2020/09/15/iran-based-threat-actor-exploits-vpn-vulnerabilities
