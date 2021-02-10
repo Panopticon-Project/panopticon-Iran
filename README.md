@@ -71,3 +71,7 @@ https://www.securityweek.com/twitter-removes-iran-linked-accounts-aimed-disrupti
 https://us-cert.cisa.gov/ncas/current-activity/2020/09/15/iran-based-threat-actor-exploits-vpn-vulnerabilities
 
 https://www.securityweek.com/old-iranian-spying-operation-resumes-after-long-break
+
+https://blog.checkpoint.com/2021/02/08/of-kittens-and-princes-the-latest-updates-on-two-iranian-espionage-operations/
+
+https://research.checkpoint.com/2021/after-lightning-comes-thunder/
