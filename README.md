@@ -75,3 +75,5 @@ https://www.securityweek.com/old-iranian-spying-operation-resumes-after-long-bre
 https://blog.checkpoint.com/2021/02/08/of-kittens-and-princes-the-latest-updates-on-two-iranian-espionage-operations/
 
 https://research.checkpoint.com/2021/after-lightning-comes-thunder/
+
+https://www.securityweek.com/iran-used-fake-instagram-accounts-try-nab-israelis-spy-agencies
