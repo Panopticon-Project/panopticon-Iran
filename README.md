@@ -79,3 +79,5 @@ https://research.checkpoint.com/2021/after-lightning-comes-thunder/
 https://www.securityweek.com/iran-used-fake-instagram-accounts-try-nab-israelis-spy-agencies
 
 https://iramcenter.org//d_hbanaliz/irans-cyber-power.pdf
+
+https://www.cyberscoop.com/iran-hackers-protests-kaspersky/
