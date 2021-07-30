@@ -83,3 +83,5 @@ https://iramcenter.org//d_hbanaliz/irans-cyber-power.pdf
 https://www.cyberscoop.com/iran-hackers-protests-kaspersky/
 
 https://www.securityweek.com/us-government-attributes-ics-attacks-russia-china-iran
+
+https://www.securityweek.com/leaked-files-offensive-cyber-unit-show-irans-interest-targeting-ics
