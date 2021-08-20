@@ -87,3 +87,5 @@ https://www.securityweek.com/us-government-attributes-ics-attacks-russia-china-i
 https://www.securityweek.com/leaked-files-offensive-cyber-unit-show-irans-interest-targeting-ics
 
 https://theintercept.com/2021/06/26/us-iran-censor-websites-evidence/
+
+https://assets.sentinelone.com/c/lessons-learned-from?x=P42eqA
