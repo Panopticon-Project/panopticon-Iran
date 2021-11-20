@@ -97,3 +97,5 @@ https://us-cert.cisa.gov/ncas/alerts/aa21-321a
 https://www.securityweek.com/supply-chain-security-fears-escalate-iranian-apts-caught-hitting-it-services-sector
 
 https://www.securityweek.com/us-uk-and-australia-warn-iranian-apts-targeting-fortinet-microsoft-exchange-flaws
+
+https://www.wired.com/story/iran-2020-election-interference/
