@@ -99,3 +99,5 @@ https://www.securityweek.com/supply-chain-security-fears-escalate-iranian-apts-c
 https://www.securityweek.com/us-uk-and-australia-warn-iranian-apts-targeting-fortinet-microsoft-exchange-flaws
 
 https://www.wired.com/story/iran-2020-election-interference/
+
+https://securityaffairs.co/wordpress/124984/apt/iran-apt-microsoft-mshtml-exploit.html
