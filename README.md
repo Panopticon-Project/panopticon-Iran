@@ -101,3 +101,5 @@ https://www.securityweek.com/us-uk-and-australia-warn-iranian-apts-targeting-for
 https://www.wired.com/story/iran-2020-election-interference/
 
 https://securityaffairs.co/wordpress/124984/apt/iran-apt-microsoft-mshtml-exploit.html
+
+https://www.securityweek.com/chinese-iranian-state-hackers-exploiting-log4j-flaw-mandiant
