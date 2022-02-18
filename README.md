@@ -103,3 +103,5 @@ https://www.wired.com/story/iran-2020-election-interference/
 https://securityaffairs.co/wordpress/124984/apt/iran-apt-microsoft-mshtml-exploit.html
 
 https://www.securityweek.com/chinese-iranian-state-hackers-exploiting-log4j-flaw-mandiant
+
+https://krebsonsecurity.com/2022/02/red-cross-hack-linked-to-iranian-influence-operation/
