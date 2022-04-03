@@ -105,3 +105,5 @@ https://securityaffairs.co/wordpress/124984/apt/iran-apt-microsoft-mshtml-exploi
 https://www.securityweek.com/chinese-iranian-state-hackers-exploiting-log4j-flaw-mandiant
 
 https://krebsonsecurity.com/2022/02/red-cross-hack-linked-to-iranian-influence-operation/
+
+https://www.recordedfuture.com/social-engineering-remains-key-tradecraft-for-iranian-apts/
