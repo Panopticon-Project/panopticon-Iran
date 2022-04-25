@@ -107,3 +107,5 @@ https://www.securityweek.com/chinese-iranian-state-hackers-exploiting-log4j-flaw
 https://krebsonsecurity.com/2022/02/red-cross-hack-linked-to-iranian-influence-operation/
 
 https://www.recordedfuture.com/social-engineering-remains-key-tradecraft-for-iranian-apts/
+
+https://www.securityweek.com/state-tv-says-iran-foiled-cyberattacks-public-services
