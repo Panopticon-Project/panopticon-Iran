@@ -109,3 +109,5 @@ https://krebsonsecurity.com/2022/02/red-cross-hack-linked-to-iranian-influence-o
 https://www.recordedfuture.com/social-engineering-remains-key-tradecraft-for-iranian-apts/
 
 https://www.securityweek.com/state-tv-says-iran-foiled-cyberattacks-public-services
+
+https://www.securityweek.com/wray-fbi-blocked-planned-cyberattack-childrens-hospital
