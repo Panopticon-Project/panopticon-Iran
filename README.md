@@ -111,3 +111,5 @@ https://www.recordedfuture.com/social-engineering-remains-key-tradecraft-for-ira
 https://www.securityweek.com/state-tv-says-iran-foiled-cyberattacks-public-services
 
 https://www.securityweek.com/wray-fbi-blocked-planned-cyberattack-childrens-hospital
+
+https://research.checkpoint.com/2022/check-point-research-exposes-an-iranian-phishing-campaign-targeting-former-israeli-foreign-minister-former-us-ambassador-idf-general-and-defense-industry-executives/
