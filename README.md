@@ -115,3 +115,5 @@ https://www.securityweek.com/wray-fbi-blocked-planned-cyberattack-childrens-hosp
 https://research.checkpoint.com/2022/check-point-research-exposes-an-iranian-phishing-campaign-targeting-former-israeli-foreign-minister-former-us-ambassador-idf-general-and-defense-industry-executives/
 
 https://www.jpost.com/israel-news/article-710691?utm_source=substack&utm_medium=email
+
+https://www.timesofisrael.com/gantz-says-iran-and-hezbollah-attempted-to-hack-unifil-steal-deployment-infomation/?utm_source=substack&utm_medium=email
