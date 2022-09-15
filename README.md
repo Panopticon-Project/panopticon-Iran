@@ -119,3 +119,5 @@ https://www.jpost.com/israel-news/article-710691?utm_source=substack&utm_medium=
 https://www.timesofisrael.com/gantz-says-iran-and-hezbollah-attempted-to-hack-unifil-steal-deployment-infomation/?utm_source=substack&utm_medium=email
 
 https://security.googleblog.com/2022/07/tag-bulletin-q2-2022.html
+
+https://therecord.media/u-s-govt-unveils-sanctions-charges-bounties-on-iranian-ransomware-actors/
