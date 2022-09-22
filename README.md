@@ -121,3 +121,5 @@ https://www.timesofisrael.com/gantz-says-iran-and-hezbollah-attempted-to-hack-un
 https://security.googleblog.com/2022/07/tag-bulletin-q2-2022.html
 
 https://therecord.media/u-s-govt-unveils-sanctions-charges-bounties-on-iranian-ransomware-actors/
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-264a
