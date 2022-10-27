@@ -123,3 +123,5 @@ https://security.googleblog.com/2022/07/tag-bulletin-q2-2022.html
 https://therecord.media/u-s-govt-unveils-sanctions-charges-bounties-on-iranian-ransomware-actors/
 
 https://www.cisa.gov/uscert/ncas/alerts/aa22-264a
+
+https://www.recordedfuture.com/malign-influence-during-the-2022-us-midterm-elections-disinformation-misinformation
