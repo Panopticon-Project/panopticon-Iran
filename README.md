@@ -129,3 +129,5 @@ https://www.recordedfuture.com/malign-influence-during-the-2022-us-midterm-elect
 https://blog.google/threat-analysis-group/tag-bulletin-q3-2022/
 
 https://blog.thc.org/the-iran-firewall-a-preliminary-report
+
+https://www.cisa.gov/uscert/sites/default/files/publications/aa22-320a_joint_csa_iranian_government-sponsored_apt_actors_compromise_federal%20network_deploy_crypto%20miner_credential_harvester.pdf
