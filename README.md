@@ -135,3 +135,5 @@ https://www.cisa.gov/uscert/sites/default/files/publications/aa22-320a_joint_csa
 https://www.cisa.gov/uscert/ncas/alerts/aa22-320a
 
 https://www.washingtonpost.com/politics/2022/11/17/iranian-hackers-breached-agency-that-hears-federal-worker-grievances/
+
+https://therecord.media/iran-venezuela-accused-of-coordinating-influence-campaign-to-free-colombian-businessman-report/
