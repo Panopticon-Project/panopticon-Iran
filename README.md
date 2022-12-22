@@ -139,3 +139,5 @@ https://www.washingtonpost.com/politics/2022/11/17/iranian-hackers-breached-agen
 https://therecord.media/iran-venezuela-accused-of-coordinating-influence-campaign-to-free-colombian-businessman-report/
 
 https://www.wired.com/story/iran-internet-blackout-economy/
+
+https://securelist.com/ransomware-and-wiper-signed-with-stolen-certificates/108350/
