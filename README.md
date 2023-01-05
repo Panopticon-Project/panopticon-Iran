@@ -143,3 +143,5 @@ https://www.wired.com/story/iran-internet-blackout-economy/
 https://securelist.com/ransomware-and-wiper-signed-with-stolen-certificates/108350/
 
 https://therecord.media/suspected-iranian-apt-accessed-federal-server-via-log4j-vulnerability/
+
+https://www.recordedfuture.com/iran-and-venezuela-the-alex-saab-trans-regional-influence-campaign
