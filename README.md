@@ -116,7 +116,7 @@ https://research.checkpoint.com/2022/check-point-research-exposes-an-iranian-phi
 
 https://www.jpost.com/israel-news/article-710691?utm_source=substack&utm_medium=email
 
-https://www.timesofisrael.com/gantz-says-iran-and-hezbollah-attempted-to-hack-unifil-steal-deployment-infomation/?utm_source=substack&utm_medium=email
+https://www.timesofisrael.com/gantz-says-iran-and-hezbollah-attempted-to-hack-unifil-steal-deployment-infomation/
 
 https://security.googleblog.com/2022/07/tag-bulletin-q2-2022.html
 
@@ -145,3 +145,5 @@ https://securelist.com/ransomware-and-wiper-signed-with-stolen-certificates/1083
 https://therecord.media/suspected-iranian-apt-accessed-federal-server-via-log4j-vulnerability/
 
 https://www.recordedfuture.com/iran-and-venezuela-the-alex-saab-trans-regional-influence-campaign
+
+https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/
