@@ -147,3 +147,5 @@ https://therecord.media/suspected-iranian-apt-accessed-federal-server-via-log4j-
 https://www.recordedfuture.com/iran-and-venezuela-the-alex-saab-trans-regional-influence-campaign
 
 https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/
+
+https://citizenlab.ca/2023/01/uncovering-irans-mobile-legal-intercept-system/
