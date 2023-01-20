@@ -149,3 +149,5 @@ https://www.recordedfuture.com/iran-and-venezuela-the-alex-saab-trans-regional-i
 https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/
 
 https://citizenlab.ca/2023/01/uncovering-irans-mobile-legal-intercept-system/
+
+https://www.bitdefender.com/blog/labs/eyespy-iranian-spyware-delivered-in-vpn-installers/
