@@ -151,3 +151,7 @@ https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hi
 https://citizenlab.ca/2023/01/uncovering-irans-mobile-legal-intercept-system/
 
 https://www.bitdefender.com/blog/labs/eyespy-iranian-spyware-delivered-in-vpn-installers/
+
+https://www.bitdefender.com/files/News/CaseStudies/study/427/Bitdefender-PR-Whitepaper-EyeSpyVPN-creat625-en-EN.pdf
+
+https://blackpointcyber.com/resources/blog/eye-spy-the-dangers-of-legal-malware/
